@@ -1,0 +1,14 @@
+t (s),F (N),Diameter(m),Length(m),Mass(kg),Propellent Mass (Kg),Drag Coefficient,Parachute Diameter (m),Parachute Drag Coefficient,Initial Height Above Sea Level (m),Roughness Level,Wind Speed (m/s),Wind Angle (E-S),Launch Angle  (Degrees)
+0.018,107.269,0.0584,1.36,0.824,0.086,0.642,0.457,0.75,47,0.1,5,40,80
+0.031,113.588,,,,,,,,,,,,
+0.059,103.508,,,,,,,,,,,,
+0.135,121.712,,,,,,,,,,,,
+0.22,104.561,,,,,,,,,,,,
+0.299,95.534,,,,,,,,,,,,
+0.432,88.312,,,,,,,,,,,,
+0.959,69.657,,,,,,,,,,,,
+1.757,43.479,,,,,,,,,,,,
+2.418,20.762,,,,,,,,,,,,
+2.851,9.478,,,,,,,,,,,,
+3.013,5.567,,,,,,,,,,,,
+3.026,0,,,,,,,,,,,,
